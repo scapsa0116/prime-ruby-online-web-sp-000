@@ -5,4 +5,4 @@ return true if n == 2
  (2..n-1).each {|int| return false if n % int == 0}
  true
  end
- end
+ 
