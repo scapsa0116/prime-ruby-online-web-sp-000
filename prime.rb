@@ -1,4 +1,3 @@
 def prime?(n)
-(2..4).any? {|n| n % 5 < 1 }
-(2..n-1).none? {|divisor| n % divisor < 0}
+return false if !n
 end 
