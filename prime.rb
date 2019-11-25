@@ -6,6 +6,3 @@ return true if n == 2
  true
  end
  end
- end
-end
- end
